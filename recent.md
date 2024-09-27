@@ -1,6 +1,6 @@
 ---
 layout: article
-  - title:      Recent
+title:      Recent
 
 key: page-recent
 ---

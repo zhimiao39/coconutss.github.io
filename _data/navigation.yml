@@ -82,7 +82,7 @@ docs-en:
   - title:      Layouts
     children:
       - title: Quick Start
-        url: /about.html
+        url: /index.html
 
       - title:      Archive
         url: /archive.html
