@@ -79,14 +79,16 @@ header:
 
 docs-en:
 
-  - title:      Start
-    url: /about.html
+  - title:      Layouts
+      children:
+        - title: Quick Start
+          url: /about.html
 
-  - title:      Archive
-    url: /archive.html
+        - title:      Archive
+          url: /archive.html
 
-  - title:      Rencent
-    url:  /rencent.html
+        - title:      Rencent
+          url:  /rencent.html
 
   
 
