@@ -1,6 +1,6 @@
 ---
 layout: article
-sidebar:
+headerbar:
   nav: archive
 ---
 
