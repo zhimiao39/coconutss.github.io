@@ -25,6 +25,10 @@ titles:
       tr      : &TR       Arşivdekiler
       # @end locale config
 key: page-favorites
+aside:
+  toc: true
+sidebar:
+  nav: docs-en
 ---
 
 一些链接🔗
