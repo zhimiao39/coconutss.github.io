@@ -1,9 +1,9 @@
 header:
   - title: Archive
-    url: /archive.html
+    url: ../archive.html
 
   - titles: Favorites
-    url: /favorites.html
+    url: ../favorites.html
 
   - titles: about
-    url: /about.html
+    url: ../about.html
