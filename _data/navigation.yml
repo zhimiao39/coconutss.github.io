@@ -80,15 +80,15 @@ header:
 docs-en:
 
   - title:      Layouts
-      children:
-        - title: Quick Start
-          url: /about.html
+    children:
+      - title: Quick Start
+        url: /about.html
 
-        - title:      Archive
-          url: /archive.html
+      - title:      Archive
+        url: /archive.html
 
-        - title:      Rencent
-          url:  /rencent.html
+      - title:      Rencent
+        url:  /rencent.html
 
   
 
