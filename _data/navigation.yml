@@ -79,12 +79,14 @@ header:
 
 docs-en:
 
-  - title:      Archives
-    url: https://zhimiao39.github.io/coconutss.github.io/
+  - title:      Start
+    url: /about.html
 
+  - title:      Archive
+    url: /archive.html
 
   - title:      Rencent
-    url:  https://github.com/zhimiao39/coconutss.github.io/blob/main/rencent.md
+    url:  /rencent.html
 
   
 
