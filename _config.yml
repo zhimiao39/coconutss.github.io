@@ -38,7 +38,7 @@ timezone: Asia/Shanghai  # see https://en.wikipedia.org/wiki/List_of_tz_database
 author:
   type      : # "person" (default), "organization"
   name      : Coconut
-  url       :
+  url       : https://zhimiao39.github.io/coconutss.github.io/
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     : zhimiao64@163.com
