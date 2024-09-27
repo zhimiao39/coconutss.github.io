@@ -110,11 +110,12 @@ docs-en:
       - title: Quick Start
         url: /index.html
 
+      - title:      Archive
+        url: /archive.html
+        
       - title:      Favorites
         url: /favorites.html
 
-      - title:      Archive
-        url: /archive.html
 
       - title:      About
         url:  /about.html
