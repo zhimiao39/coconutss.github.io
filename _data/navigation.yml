@@ -23,7 +23,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Arşivdekiler
       # @end locale config
-    url: /archive.html
+    url: https://github.com/zhimiao39/coconutss.github.io/blob/main/archive.html
 
   - titles:
       # @start locale config
