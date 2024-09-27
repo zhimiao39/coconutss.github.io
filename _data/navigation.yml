@@ -77,20 +77,16 @@ header:
       # @end locale config
     url: /about.html
 
-  docs-en:
-  - title:      Start
-    children:
-      - title:  Quick Start
-        url:    /docs/en/quick-start
-      - title:  Structure
-        url:    /docs/en/structure
+docs-en:
 
-  - title:      Customization
-    children:
-      - title:  Configuration
-        url:    /docs/en/configuration
-      - title:  Navigation
-        url:    /docs/en/navigation
+  - title:      归档
+  url: /archive.html
 
+
+  - title:      近况如何
+    
+  url:  /about.html
+
+  
 
     
