@@ -1,5 +1,4 @@
 ---
-​---
 layout: article
 titles:
   # @start locale config
@@ -25,7 +24,6 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
-​---
 ---
 
 待补充……
