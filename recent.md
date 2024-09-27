@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 title:      近况
 
 key: page-recent
