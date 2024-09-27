@@ -80,12 +80,11 @@ header:
 docs-en:
 
   - title:      归档
-  url: /archive.html
+    url: /archive.html
 
 
   - title:      近况如何
-    
-  url:  /about.html
+    url:  /about.html
 
   
 
