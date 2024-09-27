@@ -28,5 +28,5 @@ key: page-about
 
 来听歌吧！
 
-<div>{%- include extensions/netease-cloud-music.html id='1388664695' -%}</div>
+<div>{%- include extensions/netease-cloud-music.html id='357425' -%}</div>
 
