@@ -120,7 +120,15 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: gitalk
+  gitalk:
+    clientID    : "Ov23liqtjbTEoEn42rDH"
+    clientSecret: "aa2f02d1283e1f78b3ab498dcb6bbbe62160d8b4"
+    repository  : "coconutss.github.io"
+    owner       : "zhimiao39"
+    admin: # Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
+      - "coconutss.github.io"
+      # - "the-other-admin-github-id"
 
   ## Disqus
   disqus:
