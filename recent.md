@@ -21,9 +21,7 @@ show_title: False
   </div>
 </div>
 
-```
 [last edit:24/9/30](#){:.button.button--outline-success.button--pill}
-```
 
 ### 最近在做什么
 
