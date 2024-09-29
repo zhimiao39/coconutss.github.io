@@ -1,7 +1,6 @@
 ---
 layout: page
 title:      近况
-show_title: True
 key: page-recent
 aside:
   toc: true
