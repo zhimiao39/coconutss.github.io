@@ -127,7 +127,7 @@ comments:
     repository  : zhimiao39.coconutss.github.io
     owner       : zhimiao39
     admin: # Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
-      - zhimiao39.coconutss.github.io
+      - zhimiao39
       # - "the-other-admin-github-id"
 
   ## Disqus
