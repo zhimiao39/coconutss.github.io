@@ -13,17 +13,6 @@ comment:false
 
 
 
-<div class="card">
-  <div class="card__content">
-    <div class="card__header">
-      <h4>最后更新日期</h4>
-    </div>
-    <p>2024.9.30</p>
-  </div>
-</div>
-
-
-
 ### 最近在做什么
 
 - 找工作。
@@ -46,3 +35,15 @@ comment:false
 
 - [x] 研究rss
 - [x] 增加评论功能
+
+
+
+<div class="card">
+  <div class="card__content">
+    <div class="card__header">
+      <h4>最后更新日期</h4>
+    </div>
+    <p>2024.9.30</p>
+  </div>
+</div>
+
