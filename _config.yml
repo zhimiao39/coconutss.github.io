@@ -132,7 +132,7 @@ comments:
 
   ## Disqus
   disqus:
-    shortname: disqus_dE1uDnMXig
+    shortname: "disqus_dE1uDnMXig"
 
 
   ## Valine
