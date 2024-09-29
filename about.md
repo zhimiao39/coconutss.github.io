@@ -28,6 +28,7 @@ aside:
   toc: true
 sidebar:
   nav: docs-en
+comment: false
 ---
 
 来听歌吧！

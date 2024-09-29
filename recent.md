@@ -7,6 +7,7 @@ aside:
   toc: true
 sidebar:
   nav: docs-en
+comment:false
 ---
 
 <div class="card">

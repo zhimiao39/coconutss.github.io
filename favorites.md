@@ -29,6 +29,7 @@ aside:
   toc: true
 sidebar:
   nav: docs-en
+comment: false
 ---
 
 #### 🔗一些链接
