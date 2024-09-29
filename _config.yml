@@ -120,7 +120,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: gitalk
+  # provider: disqus
   gitalk:
     clientID    : Ov23liTednPmkx17FIAI
     clientSecret: 13b3575a91e5026855a769a49e512538e72b7c69
@@ -132,7 +132,7 @@ comments:
 
   ## Disqus
   disqus:
-    shortname: # the Disqus shortname for the site
+    shortname: disqus_dE1uDnMXig
 
 
   ## Valine
