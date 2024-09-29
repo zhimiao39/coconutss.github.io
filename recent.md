@@ -12,15 +12,6 @@ show_title: False
 
 
 
-<div class="card">
-  <div class="card__content">
-    <div class="card__header">
-      <h5>LAST EDIT</h5>
-    </div>
-    <p>2024.9.30</p>
-  </div>
-</div>
-
 [last edit:24/9/30](#){:.button.button--outline-success.button--pill}
 
 ### 最近在做什么
