@@ -124,7 +124,7 @@ comments:
   gitalk:
     clientID    : Ov23liTednPmkx17FIAI
     clientSecret: 13b3575a91e5026855a769a49e512538e72b7c69
-    repository  : zhimiao39.coconutss.github.io
+    repository  : coconutss.github.io
     owner       : zhimiao39
     admin: # Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
       - zhimiao39
