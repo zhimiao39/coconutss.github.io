@@ -120,7 +120,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  # provider: disqus
+  provider: disqus
   gitalk:
     clientID    : Ov23liTednPmkx17FIAI
     clientSecret: 13b3575a91e5026855a769a49e512538e72b7c69
