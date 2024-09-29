@@ -129,6 +129,10 @@ comments:
     admin: # Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
       - zhimiao39
       # - "the-other-admin-github-id"
+    proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token
+
+
+
 
   ## Disqus
   disqus:
