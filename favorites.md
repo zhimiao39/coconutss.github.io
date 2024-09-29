@@ -31,8 +31,9 @@ sidebar:
   nav: docs-en
 ---
 
-🔗一些链接
+#### 🔗一些链接
 
-她乡：她乡是为华人女性和非二元性别者打造的全球性社区。[CLICK HERE](https://www.womenoverseas.com/){:.button.button--secondary.button--pill}
+🗣她乡：她乡是为华人女性和非二元性别者打造的全球性社区。[CLICK HERE](https://www.womenoverseas.com/){:.button.button--secondary.button--pill}
 
-zlibrary：[CLICK HERE](https://zh.singlelogin.re/){:.button.button--secondary.button--pill}
+📚zlibrary：[CLICK HERE](https://zh.singlelogin.re/){:.button.button--secondary.button--pill}
+
