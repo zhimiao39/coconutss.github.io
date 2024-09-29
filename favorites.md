@@ -38,5 +38,3 @@ comment: false
 
 📚zlibrary：[CLICK HERE](https://zh.singlelogin.re/){:.button.button--secondary.button--pill}
 
-💻css教程：[CLICK HERE](https://v5.bootcss.com/docs/getting-started/introduction/){:.button.button--secondary.button--pill}
-
