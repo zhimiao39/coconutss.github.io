@@ -35,3 +35,6 @@ comment: false
 
 <div>{%- include extensions/netease-cloud-music.html id='357425' -%}</div>
 
+最近爱听大张伟的《对心》。
+
+<div>{%- include extensions/netease-cloud-music.html id='1952813390' -%}</div>
