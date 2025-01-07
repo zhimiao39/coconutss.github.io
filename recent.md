@@ -12,15 +12,15 @@ show_title: False
 
 
 
-[last edit:24/11/01](#){:.button.button--outline-success.button--pill}
+[last edit:25/01/07](#){:.button.button--outline-success.button--pill}
 
 
 
 ### 最近在做什么
 
-- 找工作ing，收到第一份offer。
-- 不再热衷于搭建博客。
-- 回到了学校写毕业论文和找工作。
+- ~~找工作ing，收到第一份offer。~~
+- 不再热衷于搭建博客=>把博客当做一个输出的空间。
+- 回到了学校写毕业论文和找工作=>回家过年了。
 - 复用notion，搭建生活的routine。
 
 ​      
@@ -35,7 +35,7 @@ show_title: False
 
 ### 近期目标
 
-- [ ] 修复作息——来学校后好很多。
+- [x] 修复作息——来学校后好很多。
 
 ​      
 
