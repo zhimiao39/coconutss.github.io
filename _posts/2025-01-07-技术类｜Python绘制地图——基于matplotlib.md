@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 【技术类】Python绘制地图——基于matplotlib
+title: 技术类｜Python绘制地图——基于matplotlib
 tags: 技术类
 show_tags: true
 show_title: true
