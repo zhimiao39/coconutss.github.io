@@ -17,3 +17,5 @@ Comment: true
 
 把课程全部更新到了pycharm的插件里，找到在哪儿写代码花了一点功夫。最后找到了但无法使用，扒评论发现需要更新pycharm到最新版，终于可以用了！
 
+![victory](https://github.com/zhimiao39/coconutss.github.io/raw/main/image/screenshot-20250108-160449.png)
+
